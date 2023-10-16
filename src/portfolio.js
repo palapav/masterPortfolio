@@ -51,12 +51,6 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com/c/DevSense19",
-  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  // },
   {
     name: "Gmail",
     link: "mailto:avpalaparthi@gmail.com",
@@ -68,19 +62,7 @@ const socialMediaLinks = [
   //   link: "https://twitter.com/ashutosh_1919",
   //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
   //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  // },
-  // {
-  //   name: "Facebook",
-  //   link: "https://www.facebook.com/laymanbrother.19/",
-  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  // },
-  // {
-  //   name: "Instagram",
-  //   link: "https://www.instagram.com/layman_brother/",
-  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  // },
+  // }
 ];
 
 const skills = {
@@ -658,7 +640,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools.",
+    "My projects span the areas of machine learning, full-stack software development, systems, and security. I love to work on end-to-end ideas that further enhance technological automation, streamlining existing processes. All code is available upon request.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -728,7 +710,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours.",
+      "I am available on LinkedIn and through email. You can message me, and I will reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
